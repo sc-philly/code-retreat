@@ -55,6 +55,18 @@ In the first round, we will be exploring the problem. If you're unsure where to 
 
 ## Where can I continue learning?
 
+### Katas
+
+A kata is a small digestible fun exercise that lets you practice things. You can focus on stuff like tdd, or breaking the problem up better, or single responsibility. It’s a simple enough problem that you can do real practice without getting bogged down in the domain, deadlines, or delivery.
+
+> "There are no limits. There are only plateaus, and you must not stay there, you must go beyond them."
+>
+> ~Bruce Lee
+
+Focus on form and mastery here!
+
+[Sam's Awesome Katas](https://github.com/samjonester/awesome-katas)
+
 ### TDD
 
 **What is TDD?**
@@ -75,18 +87,6 @@ TDD stands for Test Driven *Design*. It is a tool to help design understandable,
 - [Arrange Act Assert - C2 Wiki](http://c2.com/cgi/wiki?ArrangeActAssert)
 - [Arrange Act Assert - Test Double Wiki](https://github.com/testdouble/contributing-tests/wiki/Arrange-Act-Assert)
 - [Test Organization with Contexts](http://blog.testdouble.com/posts/2017-02-17-test-organization-with-contexts.html)
-
-### Katas
-
-A kata is a small digestible fun exercise that lets you practice things. You can focus on stuff like tdd, or breaking the problem up better, or single responsibility. It’s a simple enough problem that you can do real practice without getting bogged down in the domain, deadlines, or delivery.
-
-> "There are no limits. There are only plateaus, and you must not stay there, you must go beyond them."
->
-> ~Bruce Lee
-
-Focus on form and mastery here!
-
-[Sam's Awesome Katas](https://github.com/samjonester/awesome-katas)
 
 ### Exercism.io
 
