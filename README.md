@@ -43,23 +43,15 @@ With each round, there will be a surprise challenge. We'll choose a group challe
 
 In the first round, we will be exploring the problem. If you're unsure where to begin, the branch [challenge 0]() will give you a foundation to begin working on the problem. If you're unsure of where to approach the problem, but don't want to use the template, start by defining a rules engine for the game.
 
-### Basic Challenges
+### General Itinerary
 
-- Practice ping-pong or driver-navigator pairing
-- Don't write any code without a failing test
-
-### Bonus Challenges!
-
-If you'd like to go rogue, here are some fun ideas to try with your pair :)
-
-- No naked primitives
-- No conditional statements
-- No loops
-- Only four lines of code per method
-- Class names can only be verbs
-- Pair without talking
-- An infinite board
-- A multidimensional board
+* 10:00: Hello World
+* 10:30: Session One
+* 11:45: Session Two
+* 13:00: Lunch
+* 13:45: Session Three
+* 15:00: Session Four
+* 16:15: End
 
 ## Where can I continue learning?
 
