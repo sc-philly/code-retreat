@@ -19,7 +19,14 @@ Code retreat is for you if:
 
 ## What are we doing today?
 
-We will be working on the [kata](#katas) [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in pairs. Ideally, a pair will consist of someone that is able to teach a skill and someone that is interested in learning that skill. We will be working in 30 minute rounds with a short retrospective at the end of each round to share what we did and learned. The problem is __*IMPOSSIBLE*__ to finish in 30 minutes, and that's by design. It allows us to choose on area to approach, and one activity to practice for the round without worrying about completing the problem and shipping a rushed solution. Take your time; talk and learn together!
+We will be working through some [Code Katas](#katas) and trying to program [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in pairs.
+
+Simply put we will be solving the same problem over and over whilst applying different constraints
+to how we solve it.
+
+Ideally, a pair will consist of someone that is able to teach a skill and someone that is interested in learning that skill. We will be working in 30 minute rounds with a short retrospective at the end of each round to share what we did and learned.
+
+The problem is __*IMPOSSIBLE*__ to finish in 30 minutes, and that's by design. It allows us to choose on area to approach, and one activity to practice for the round without worrying about completing the problem and shipping a rushed solution. Take your time; talk and learn together!
 
 * [Opening Slides]()
 
