@@ -19,7 +19,14 @@ Code retreat is for you if:
 
 ## What are we doing today?
 
-We will be working on the [kata](#katas) [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in pairs. Ideally, a pair will consist of someone that is able to teach a skill and someone that is interested in learning that skill. We will be working in 30 minute rounds with a short retrospective at the end of each round to share what we did and learned. The problem is __*IMPOSSIBLE*__ to finish in 30 minutes, and that's by design. It allows us to choose on area to approach, and one activity to practice for the round without worrying about completing the problem and shipping a rushed solution. Take your time; talk and learn together!
+We will be working through some [Code Katas](#katas) and trying to program [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in pairs.
+
+Simply put we will be solving the same problem over and over whilst applying different constraints
+to how we solve it.
+
+Ideally, a pair will consist of someone that is able to teach a skill and someone that is interested in learning that skill. We will be working in 30 minute rounds with a short retrospective at the end of each round to share what we did and learned.
+
+The problem is __*IMPOSSIBLE*__ to finish in 30 minutes, and that's by design. It allows us to choose on area to approach, and one activity to practice for the round without worrying about completing the problem and shipping a rushed solution. Take your time; talk and learn together!
 
 * [Opening Slides]()
 
@@ -28,7 +35,8 @@ We will be working on the [kata](#katas) [Conway's Game of Life](https://en.wiki
 ### Setup your environment
 
 If you or your pair are able to _quickly_ setup an environment with a test runner in the language you'd like to work in, then skip to the next step.
-If not, there are sample environments in [ruby](/ruby), [javascript](/javascript) & [python]() for you to use. Follow the instructions in the readme to get started.
+If not, there are sample environments in [ruby](/ruby), [javascript](/javascript) & [python](/python) for you to use. Follow the instructions in the readme to get started.
+
 
 ### Get started on the problem
 
@@ -36,25 +44,35 @@ With each round, there will be a surprise challenge. We'll choose a group challe
 
 In the first round, we will be exploring the problem. If you're unsure where to begin, the branch [challenge 0]() will give you a foundation to begin working on the problem. If you're unsure of where to approach the problem, but don't want to use the template, start by defining a rules engine for the game.
 
-### Basic Challenges
+### General Itinerary
 
-- Practice ping-pong or driver-navigator pairing
-- Don't write any code without a failing test
+* 10:00: Hello World
+* 10:30: Session One
+* 11:45: Session Two
+* 13:00: Lunch
+* 13:45: Session Three
+* 15:00: Session Four
+* 16:15: End
 
-### Bonus Challenges!
-
-If you'd like to go rogue, here are some fun ideas to try with your pair :)
-
-- No naked primitives
-- No conditional statements
-- No loops
-- Only four lines of code per method
-- Class names can only be verbs
-- Pair without talking
-- An infinite board
-- A multidimensional board
 
 ## Where can I continue learning?
+
+### Further Activities
+
+There are many more activities than the ones we'll be doing on this day. If you want to do some of them in your own time
+take a look at a longer [activity list](./activity_list.md).
+
+### Katas
+
+A kata is a small digestible fun exercise that lets you practice things. You can focus on stuff like tdd, or breaking the problem up better, or single responsibility. It’s a simple enough problem that you can do real practice without getting bogged down in the domain, deadlines, or delivery.
+
+> "There are no limits. There are only plateaus, and you must not stay there, you must go beyond them."
+>
+> ~Bruce Lee
+
+Focus on form and mastery here!
+
+[Sam's Awesome Katas](https://github.com/samjonester/awesome-katas)
 
 ### TDD
 
@@ -76,18 +94,6 @@ TDD stands for Test Driven *Design*. It is a tool to help design understandable,
 - [Arrange Act Assert - C2 Wiki](http://c2.com/cgi/wiki?ArrangeActAssert)
 - [Arrange Act Assert - Test Double Wiki](https://github.com/testdouble/contributing-tests/wiki/Arrange-Act-Assert)
 - [Test Organization with Contexts](http://blog.testdouble.com/posts/2017-02-17-test-organization-with-contexts.html)
-
-### Katas
-
-A kata is a small digestible fun exercise that lets you practice things. You can focus on stuff like tdd, or breaking the problem up better, or single responsibility. It’s a simple enough problem that you can do real practice without getting bogged down in the domain, deadlines, or delivery.
-
-> "There are no limits. There are only plateaus, and you must not stay there, you must go beyond them."
->
-> ~Bruce Lee
-
-Focus on form and mastery here!
-
-[Sam's Awesome Katas](https://github.com/samjonester/awesome-katas)
 
 ### Exercism.io
 
