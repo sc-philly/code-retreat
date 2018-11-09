@@ -22,9 +22,9 @@ This is the Ruby starter.
 
 [RSpec](http://rspec.info/)
 
-Common [Expectations](https://relishapp.com/rspec/rspec-expectations/v/3-8/docs/built-in-matchers)
-`expect(actual).to be(expected)` for object equivalence (same instance)
-`expect(actual).to eql(expected)` for object value equivalence
+#### Common [Expectations](https://relishapp.com/rspec/rspec-expectations/v/3-8/docs/built-in-matchers)
+- `expect(actual).to be(expected)` for object equivalence (same instance)
+- `expect(actual).to eql(expected)` for object value equivalence
 
 ### Mocking library
 
