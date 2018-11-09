@@ -1,0 +1,24 @@
+{
+  "name": "code-retreat",
+  "description": "Starter Project",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "@babel/core": "*",
+    "@babel/preset-env": "*",
+    "@babel/register": "*",
+    "ava": "*",
+    "testdouble": "*"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ]
+  },
+  "ava": {
+    "require": [
+      "@babel/register"
+    ]
+  }
+}
