@@ -28,7 +28,7 @@ We will be working on the [kata](#katas) [Conway's Game of Life](https://en.wiki
 ### Setup your environment
 
 If you or your pair are able to _quickly_ setup an environment with a test runner in the language you'd like to work in, then skip to the next step.
-If not, there are sample environments in [ruby](), [javascript]() & [python]() for you to use. Follow the instructions in the readme to get started.
+If not, there are sample environments in [ruby](), [javascript](/javascript) & [python]() for you to use. Follow the instructions in the readme to get started.
 
 ### Get started on the problem
 
