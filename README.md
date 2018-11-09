@@ -53,7 +53,13 @@ In the first round, we will be exploring the problem. If you're unsure where to 
 * 15:00: Session Four
 * 16:15: End
 
+
 ## Where can I continue learning?
+
+### Further Activities
+
+There are many more activities than the ones we'll be doing on this day. If you want to do some of them in your own time
+take a look at a longer [activity list](./activity_list.md).
 
 ### Katas
 
