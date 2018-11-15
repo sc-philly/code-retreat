@@ -28,7 +28,7 @@ Ideally, a pair will consist of someone that is able to teach a skill and someon
 
 The problem is __*IMPOSSIBLE*__ to finish in 30 minutes, and that's by design. It allows us to choose on area to approach, and one activity to practice for the round without worrying about completing the problem and shipping a rushed solution. Take your time; talk and learn together!
 
-* [Opening Slides]()
+* [Opening Slides](/slides.pdf)
 
 ## How do I get started?
 
