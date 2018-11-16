@@ -42,7 +42,7 @@ If not, there are sample environments in [ruby](/ruby), [javascript](/javascript
 
 With each round, there will be a surprise challenge. We'll choose a group challenge from the list below, and you will and work together to solve it. You're not required to do what everyone else is, though. Feel free to coordinate with your pair on something that seems fun and valuable to do together.
 
-In the first round, we will be exploring the problem. If you're unsure where to begin, the branch [challenge 0]() will give you a foundation to begin working on the problem. If you're unsure of where to approach the problem, but don't want to use the template, start by defining a rules engine for the game.
+In the first round, we will be exploring the problem. If you're unsure where to begin, the branch [challenge 0](https://github.com/sc-philly/code-retreat/tree/challenge-0) will give you a foundation to begin working on the problem. If you're unsure of where to approach the problem, but don't want to use the template, start by defining a rules engine for the game.
 
 ### General Itinerary
 
