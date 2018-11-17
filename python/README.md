@@ -34,7 +34,7 @@ Should you wish to install an earlier version then you will have to install them
 
 ## Testing Quickstart
 
-Take a quick look in `tests/test_me.py` and `my_project/__init__.py`. Then run:
+Take a quick look in `game_of_life/__init__.py` and `tests/game_of_life.py`. Then run:
 
     pytest
 
