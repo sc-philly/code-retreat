@@ -48,11 +48,12 @@ In the first round, we will be exploring the problem. If you're unsure where to 
 
 * 10:00: Hello World
 * 10:30: Session One
-* 11:45: Session Two
-* 13:00: Lunch
-* 13:45: Session Three
-* 15:00: Session Four
-* 16:15: End
+* 11:30: Session Two
+* 12:30: Lunch
+* 13:30: Session Three
+* 14:30: Session Four
+* 15:00: Recap
+* 15:30: Done
 
 
 ## Where can I continue learning?
