@@ -15,5 +15,8 @@
     "presets": [
       "@babel/preset-env"
     ]
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.7"
   }
 }
